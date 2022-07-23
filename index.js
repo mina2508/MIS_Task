@@ -26,7 +26,8 @@ const matrix = [
   [6, 3, 4],
 ];
 sumMatrix(matrix);
-
+/******************************************* */
+//Task2
 let scores = [2, 5, 3, 4, 1];
 const formTeams = (scores) => {
   const teams = [];
